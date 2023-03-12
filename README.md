@@ -76,9 +76,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on Web Solutions, Mobile Apps & e-commerce solutions.<br>👯 I’m looking to collaborate on various projects.<br>🤝 I’m looking for help with developers across the globe.<br>🌱 I’m currently learning AI, ML, ChatGPT - OpenAI Developer <br>💬 Ask me about DevOps MEAN, MERN Stack, Mobile App Development<br>⚡ Fun fact: I love exploring new technologies and learning everything
+
+💫 About Me:
+🔭 I’m currently working on Web Solutions, Mobile Apps & e-commerce solutions.<br>👯 I’m looking to collaborate on various projects.<br>🤝 I’m looking for help with developers across the globe.<br>🌱 I’m currently learning AI, ML, ChatGPT - OpenAI Developer <br>💬 Ask me about DevOps MEAN, MERN Stack, Mobile App Development<br>⚡ Fun fact: I love exploring new technologies and learning everything--->
 
 
 ## 🌐 Socials:
