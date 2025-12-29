@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <samp>
     <a href="https://linktr.ee/Iamdushyant">「 Reach Me 」</a>
     <br>
-    「 I am a full stack web developer, Android/iOS appplication developer from <b>Chandigarh</b> 」
+    「 Building apps, scaling brands. Full-stack meets growth marketing, sharing stories on tech, ads, and digital business growth from <b>Chandigarh</b> 」
     <br>
     <br>
   </samp>
